@@ -1,0 +1,43 @@
+{
+    "101": {
+        "acc_no": 101,
+        "acc_holder": "Satya",
+        "pin": "1234",
+        "balance": 4000.0,
+        "transactions": [
+            "2025-10-18 15:51:13.931497 - Deposited \u20b95000.00, New Balance: \u20b910000.00",
+            "2025-10-18 15:51:21.491199 - Withdrew \u20b94000.00, Remaining Balance: \u20b96000.00",
+            "2025-10-18 15:51:39.051486 - Transferred \u20b92000.00 to Ravi, Remaining Balance: \u20b94000.00"
+        ]
+    },
+    "102": {
+        "acc_no": 102,
+        "acc_holder": "Ravi",
+        "pin": "5678",
+        "balance": 5000.0,
+        "transactions": [
+            "2025-10-18 15:51:39.051744 - Received \u20b92000.00 from Satya, New Balance: \u20b95000.00"
+        ]
+    },
+    "103": {
+        "acc_no": 103,
+        "acc_holder": "Lakshmi",
+        "pin": "9999",
+        "balance": 8000,
+        "transactions": []
+    },
+    "104": {
+        "acc_no": 104,
+        "acc_holder": "Chandu",
+        "pin": "8877",
+        "balance": 4000,
+        "transactions": []
+    },
+    "105": {
+        "acc_no": 105,
+        "acc_holder": "Kumar",
+        "pin": "7799",
+        "balance": 3000,
+        "transactions": []
+    }
+}
