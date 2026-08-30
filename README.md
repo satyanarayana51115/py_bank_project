@@ -24,7 +24,7 @@ An Object-Oriented Programming (OOP) based terminal banking system built with Py
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/satyanarayana51115/py_bank_project.git](https://github.com/satyanarayana51115/py_bank_project.git)
+   git clone https://github.com/satyanarayana51115/py_bank_project.git
    cd py_bank_project
    ```
 
@@ -56,4 +56,4 @@ graph TD
 ---
 
 ## 👨‍💻 Author
-**Satyanarayana** - [@satyanarayana51115] https://github.com/satyanarayana51115
+**Satyanarayana** - [@satyanarayana51115](https://github.com/satyanarayana51115)
